@@ -4,7 +4,7 @@ GraphQL support for Sublime's LSP plugin.
 
 Uses [graphql-language-service-server](https://github.com/graphql/graphiql/tree/main/packages/graphql-language-service-server) to provide diagnostics, autocomplete suggestions, definitions and other features for GraphQL files or blocks. See linked repository for more information.
 
-* Install [LSP](https://packagecontrol.io/packages/LSP), [GraphQL Sublime Packge](https://packagecontrol.io/packages/GraphQL) and `LSP-graphql` from Package Control.
+* Install [LSP](https://packagecontrol.io/packages/LSP), [GraphQL Sublime Package](https://packagecontrol.io/packages/GraphQL) and `LSP-graphql` from Package Control.
 * Restart Sublime.
 
 ### Project configuration
