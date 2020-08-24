@@ -1,0 +1,11 @@
+{
+	"languages": [
+		{
+			"languageId": "graphql",
+			"scopes": ["source.graphql"],
+			"syntaxes": ["Packages/GraphQL/GraphQL.sublime-syntax"],
+		}
+	],
+	"initializationOptions": {},
+	"settings": {},
+}
