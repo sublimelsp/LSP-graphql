@@ -9,7 +9,7 @@ Uses [graphql-language-service-server](https://github.com/graphql/graphiql/tree/
 
 ### Project configuration
 
-Server requires that your project includes a configuration file that defines the `schema` URL at least. Refer to [server configuration file](https://github.com/graphql/graphiql/tree/main/packages/graphql-language-service-server#graphql-configuration-file-graphqlrcyml) for more details.
+Server requires that your project includes a configuration file that defines the `schema` URL at least. Refer to [server configuration file](https://github.com/graphql/graphiql/tree/main/packages/graphql-language-service-server#graphql-configuration-file) for more details.
 
 
 ### Configuration
