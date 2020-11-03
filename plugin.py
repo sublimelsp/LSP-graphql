@@ -21,3 +21,7 @@ class LspGraphqlPlugin(NpmClientHandler):
     @classmethod
     def get_binary_arguments(cls):
         return ['server', '--method', 'stream']
+
+    @classmethod
+    def install_in_cache(cls) -> bool:
+        return False
