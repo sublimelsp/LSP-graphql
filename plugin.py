@@ -1,5 +1,4 @@
 import os
-from LSP.plugin.core.typing import Dict, List
 from lsp_utils import NpmClientHandler
 
 
@@ -17,11 +16,3 @@ class LspGraphqlPlugin(NpmClientHandler):
     server_binary_path = os.path.join(
         server_directory, 'node_modules', 'graphql-language-service-cli', 'bin', 'graphql.js'
     )
-
-    @classmethod
-    def get_binary_arguments(cls):
-        return ['server', '--method', 'stream']
-
-    @classmethod
-    def install_in_cache(cls) -> bool:
-        return False
