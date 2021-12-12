@@ -1,5 +1,11 @@
 {
 	"command": ["${node_bin}", "${server_path}", "server", "--method", "stream"],
+	"auto_complete_selector": "- comment",
+	"initializationOptions": {},
+	"settings": {},
+	// ST4
+	"selector": "source.graphql",
+	// ST3
 	"languages": [
 		{
 			"languageId": "graphql",
@@ -7,6 +13,4 @@
 			"syntaxes": ["Packages/GraphQL/GraphQL.sublime-syntax"],
 		}
 	],
-	"initializationOptions": {},
-	"settings": {},
 }
