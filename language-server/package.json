@@ -5,7 +5,7 @@
   "repository": "http://github.com/graphql/graphiql",
   "version": "1.0.0",
   "dependencies": {
-    "graphql": "^16.3.0",
+    "graphql": "^16.4.0",
     "graphql-language-service-cli": "^3.2.21"
   }
 }
