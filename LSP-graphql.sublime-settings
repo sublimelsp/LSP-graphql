@@ -1,5 +1,5 @@
 {
-	"command": ["${node_bin}", "${server_path}", "server", "--method", "stream"],
+	"command": ["${node_bin}", "${server_path}"],
 	"auto_complete_selector": "- comment",
 	"initializationOptions": {},
 	"settings": {},
