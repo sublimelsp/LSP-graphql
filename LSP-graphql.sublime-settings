@@ -3,9 +3,6 @@
 	"auto_complete_selector": "- comment",
 	"initializationOptions": {},
 	"settings": {},
-	// ST4
-	"selector": "source.graphql",
-	// ST3
 	"languages": [
 		{
 			"languageId": "graphql",
