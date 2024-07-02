@@ -3,14 +3,5 @@
 	"auto_complete_selector": "- comment",
 	"initializationOptions": {},
 	"settings": {},
-	// ST4
-	"selector": "source.graphql",
-	// ST3
-	"languages": [
-		{
-			"languageId": "graphql",
-			"scopes": ["source.graphql"],
-			"syntaxes": ["Packages/GraphQL/GraphQL.sublime-syntax"],
-		}
-	],
+	"selector": "source.graphql"
 }
