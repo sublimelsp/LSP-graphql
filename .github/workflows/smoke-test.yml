@@ -13,4 +13,4 @@ jobs:
     with:
       # Provides the GraphQL syntax, which Sublime Text doesn't include.
       extra-packages: |
-        dncrews/GraphQL-SublimeText3
+        GraphQL
