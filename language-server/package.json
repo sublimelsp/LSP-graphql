@@ -7,6 +7,6 @@
   "dependencies": {
     "graphql": "17.1.0",
     "graphql-language-service-cli": "4.0.1",
-    "graphql-language-service-server": "3.0.1"
+    "graphql-language-service-server": "3.0.2"
   }
 }
